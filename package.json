@@ -1,0 +1,21 @@
+{
+  "name": "j2js",
+  "version": "0.1.0",
+  "description": "Convert Java to Typescript using Javascript",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest -i"
+  },
+  "keywords": [],
+  "author": "Weidong Fang",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^26.0.3",
+    "@types/node": "^14.0.14",
+    "jest": "^26.1.0",
+    "ts-jest": "^26.1.1",
+    "ts-loader": "^7.0.5",
+    "typescript": "^3.9.5"
+  }
+}
